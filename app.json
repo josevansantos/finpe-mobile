@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "finpe-mobile",
+    "slug": "finpe-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "finpe-mobile"
+}
